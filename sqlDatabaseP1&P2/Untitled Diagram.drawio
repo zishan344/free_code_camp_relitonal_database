@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="witK0yn1a3T5sgYMvgcQ-74" value="majors_courses" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="880" width="310" height="90" as="geometry">
+          <mxGeometry x="385" y="895" width="310" height="90" as="geometry">
             <mxRectangle x="390" y="880" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -192,10 +192,10 @@
           <mxGeometry x="530" y="790" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="witK0yn1a3T5sgYMvgcQ-83" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="920" width="50" height="40" as="geometry" />
+          <mxGeometry x="340" y="940" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="witK0yn1a3T5sgYMvgcQ-84" value="Composit primary key" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="witK0yn1a3T5sgYMvgcQ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="witK0yn1a3T5sgYMvgcQ-86" target="witK0yn1a3T5sgYMvgcQ-74">
           <mxGeometry relative="1" as="geometry" />
